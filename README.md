@@ -37,5 +37,9 @@ syntax
     - blackdog
 ## coding
 `````````
+def call():
 print("hello world")
 `````````
+```
+call()
+```
