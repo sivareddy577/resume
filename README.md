@@ -17,5 +17,11 @@ syntax
 ## nested blockquotes
 >> jdklskfdsahf
 >>> sajdfkaldjsf
---- kljdashfa ---
-' abcd '
+## ordered list & Unordered List
+1. Alphabets
+  - a,b,c,d____
+2. letters
+3. words
+    1. apple
+    2. ball
+    3. cat
