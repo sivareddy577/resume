@@ -19,7 +19,7 @@ syntax
 >>> sajdfkaldjsf
 ## ordered list & Unordered List
 1. Alphabets
-  - a,b,c,d____
+    - a,b,c,d etc
 2. letters
 3. words
     1. apple
