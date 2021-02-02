@@ -9,3 +9,5 @@ syntax
 __siva__
 *siva*
 _siva_
+_**siva**_
+__*siva*__
