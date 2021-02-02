@@ -52,4 +52,4 @@ call()
 
 [facebook](https://www.facebook.com/)
 ## image 
-![img](download.jpg)
+![img](https://github.com/sivareddy577/resume/blob/master/download.jpg)
