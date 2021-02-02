@@ -54,4 +54,4 @@ call()
 ## image 
 ![img](https://github.com/sivareddy577/resume/blob/master/download.jpg)
 ## inserting videos
-[![video]()](https://www.youtube.com/watch?v=K-Ts-NFR62o)
+[![video](https://img.youtube.com/vi/K-Ts-NFR62o/0.jpg)](https://www.youtube.com/watch?v=K-Ts-NFR62o)
