@@ -35,4 +35,7 @@ syntax
     - tiger
     - zebra
     - blackdog
-  
+## coding
+`````````
+print("hello world")
+`````````
