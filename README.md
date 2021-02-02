@@ -5,7 +5,7 @@ syntax
 #### heading 4
 ##### heading 5
 # bold and italic formats
-**sivareddy**
+- **sivareddy**
 - __siva__
 - *siva*
 - _siva_
