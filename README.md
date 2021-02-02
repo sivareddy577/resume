@@ -17,4 +17,5 @@ syntax
 ## nested blockquotes
 >> jdklskfdsahf
 >>> sajdfkaldjsf
-'abcd'
+--- kljdashfa ---
+' abcd '
